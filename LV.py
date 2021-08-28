@@ -71,4 +71,4 @@ class bacteria:
         self.bac_name = self_name
     
 #————————————————main———————————————————
-#%%
+
